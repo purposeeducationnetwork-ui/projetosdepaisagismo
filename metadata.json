@@ -1,0 +1,6 @@
+{
+  "name": "Rep Ebooks - 300 Projetos de Paisagismo",
+  "description": "Coleção digital com 300 projetos e referências de paisagismo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
